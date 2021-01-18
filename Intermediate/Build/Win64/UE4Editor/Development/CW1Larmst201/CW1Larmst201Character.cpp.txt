@@ -1,0 +1,50 @@
+E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\Definitions.CW1Larmst201.h
+E:\Uni Programming\C++ CW1\CW1Larmst201\Source\CW1Larmst201\CW1Larmst201Character.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Inc\CW1Larmst201\CW1Larmst201Character.generated.h
+E:\Uni Programming\C++ CW1\CW1Larmst201\Source\CW1Larmst201\CW1Larmst201Projectile.h
+E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Inc\CW1Larmst201\CW1Larmst201Projectile.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Public\KeyState.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneViewExtensionContext.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CW1Larmst201.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6EEDA6C9-FEE6-4122-B4C8-81A9F3CD16DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CW1Larmst201.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CW1Larmst201Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BAA37CCB-FD9F-4D61-A049-48591B6D04B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CW1Larmst201">
+      <UniqueIdentifier>{045388AC-9073-4BD8-8A8E-4541B5E613A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CW1Larmst201\CW1Larmst201.Build.cs">
+      <Filter>Source\CW1Larmst201</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CW1Larmst201\CW1Larmst201.cpp">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CW1Larmst201\CW1Larmst201.h">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CW1Larmst201\CW1Larmst201Character.cpp">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CW1Larmst201\CW1Larmst201Character.h">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CW1Larmst201\CW1Larmst201GameMode.cpp">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CW1Larmst201\CW1Larmst201GameMode.h">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CW1Larmst201\CW1Larmst201HUD.cpp">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CW1Larmst201\CW1Larmst201HUD.h">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CW1Larmst201\CW1Larmst201Projectile.cpp">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CW1Larmst201\CW1Larmst201Projectile.h">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CW1Larmst201\DestroyableRock.h">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CW1Larmst201\DestroyableRock.cpp">
+      <Filter>Source\CW1Larmst201</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

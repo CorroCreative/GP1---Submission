@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CW1Larmst201",
+			"Path": "E:\\Uni Programming\\C++ CW1\\CW1Larmst201\\Source\\CW1Larmst201.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CW1Larmst201Editor",
+			"Path": "E:\\Uni Programming\\C++ CW1\\CW1Larmst201\\Source\\CW1Larmst201Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

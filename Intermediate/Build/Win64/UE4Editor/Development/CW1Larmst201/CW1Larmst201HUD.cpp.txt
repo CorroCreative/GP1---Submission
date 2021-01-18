@@ -1,0 +1,17 @@
+E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\Definitions.CW1Larmst201.h
+E:\Uni Programming\C++ CW1\CW1Larmst201\Source\CW1Larmst201\CW1Larmst201HUD.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Inc\CW1Larmst201\CW1Larmst201HUD.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\Lee\Documents\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h

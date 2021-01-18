@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CW1Larmst201-4903.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\CW1Larmst201Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201Character.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201GameMode.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201HUD.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201Projectile.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\DestroyableRock.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201Character.gen.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201GameMode.gen.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201Projectile.gen.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201HUD.gen.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\DestroyableRock.gen.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\CW1Larmst201.init.gen.cpp.obj"
+"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\Default.rc2.res"
+/OUT:"E:\Uni Programming\C++ CW1\CW1Larmst201\Intermediate\Build\Win64\UE4Editor\Development\CW1Larmst201\UE4Editor-CW1Larmst201-4903.lib"
+/INCLUDE:IMPLEMENT_MODULE_CW1Larmst201
